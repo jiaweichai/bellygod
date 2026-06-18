@@ -1,0 +1,4 @@
+* -text
+*.data -filter -diff -merge text=auto
+*.wasm -filter -diff -merge text=auto
+*.unityweb -filter -diff -merge text=auto
